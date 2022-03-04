@@ -5,8 +5,3 @@
 
  prueba de repositorio local paz
 
-![hack](img/descarga.png)
-
-![imagen] (img/descarga.png)
-
-
